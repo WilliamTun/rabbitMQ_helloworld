@@ -28,8 +28,8 @@ docker run -d -p 15672:15672 -p 5672:5672 --name rabbit-test-for-medium rabbitmq
 
 
 ### Resources:
-https://www.rabbitmq.com/tutorials/tutorial-one-python.html
-https://www.rabbitmq.com/tutorials/tutorial-two-python.html
-https://www.rabbitmq.com/tutorials/tutorial-three-python.html
-https://betterprogramming.pub/introduction-to-message-queue-with-rabbitmq-python-639e397cb668
-https://www.cloudamqp.com/blog/part2-3-rabbitmq-for-beginners_example-and-sample-code-python.html
+https://www.rabbitmq.com/tutorials/tutorial-one-python.html \
+https://www.rabbitmq.com/tutorials/tutorial-two-python.html \
+https://www.rabbitmq.com/tutorials/tutorial-three-python.html \
+https://betterprogramming.pub/introduction-to-message-queue-with-rabbitmq-python-639e397cb668 \
+https://www.cloudamqp.com/blog/part2-3-rabbitmq-for-beginners_example-and-sample-code-python.html \
